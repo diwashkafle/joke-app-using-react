@@ -3,13 +3,13 @@ import {MdDashboardCustomize} from 'react-icons/md';
 import {FaRandom} from 'react-icons/fa';
 import { v4 as uuidv4 } from 'uuid';
 import Randomjokes from './components/Randomjokes';
-import Customizejokes from './components/Customizejokes';
+
 
 
 function App() {
   const [bool, setBool] = useState(true);
   const [apijoke,setApiJoke] = useState("");
-  const [displayingjoke,setDisplayingjoke] = useState("just click on randon jokes");
+  const [displayingjoke,setDisplayingjoke] = useState("just click on random jokes");
   const [justforRandom,setJustforRandom] = useState(0);
 
   const RandombtnHandler = ()=>{
