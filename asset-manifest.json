@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/joke-app-using-react/static/css/main.18ffd191.css",
+    "main.js": "/joke-app-using-react/static/js/main.ba18bc37.js",
+    "index.html": "/joke-app-using-react/index.html",
+    "main.18ffd191.css.map": "/joke-app-using-react/static/css/main.18ffd191.css.map",
+    "main.ba18bc37.js.map": "/joke-app-using-react/static/js/main.ba18bc37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18ffd191.css",
+    "static/js/main.ba18bc37.js"
+  ]
+}
